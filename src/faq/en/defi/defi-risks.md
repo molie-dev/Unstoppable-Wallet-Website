@@ -1,4 +1,4 @@
-# What are the risks when using WalletConnect?
+# What are the risks when using Wallet Connect?
 
 It should be noted that WalletConnect merely acts as a bridge between the DeFi service website and the user's wallet (for example Unstoppable).
 
